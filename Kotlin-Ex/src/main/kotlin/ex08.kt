@@ -5,7 +5,9 @@ fun main() {
     val n = readln().toInt()
 
     println(imparOuPar(n))
+
 }
+
 
 fun imparOuPar(num: Int):String{
 
